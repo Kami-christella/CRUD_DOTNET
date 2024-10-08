@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kami\\source\\repos\\SHEILLA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4335E80-6A17-4D97-9096-8DEC97E00A33}|SHEILLA.csproj|C:\\Users\\Kami\\source\\repos\\SHEILLA\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4335E80-6A17-4D97-9096-8DEC97E00A33}|SHEILLA.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4335E80-6A17-4D97-9096-8DEC97E00A33}|SHEILLA.csproj|C:\\Users\\Kami\\source\\repos\\SHEILLA\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4335E80-6A17-4D97-9096-8DEC97E00A33}|SHEILLA.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4335E80-6A17-4D97-9096-8DEC97E00A33}|SHEILLA.csproj|C:\\Users\\Kami\\source\\repos\\SHEILLA\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4335E80-6A17-4D97-9096-8DEC97E00A33}|SHEILLA.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4335E80-6A17-4D97-9096-8DEC97E00A33}|SHEILLA.csproj|C:\\Users\\Kami\\source\\repos\\SHEILLA\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4335E80-6A17-4D97-9096-8DEC97E00A33}|SHEILLA.csproj|solutionrelative:login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4335E80-6A17-4D97-9096-8DEC97E00A33}|SHEILLA.csproj|c:\\users\\kami\\source\\repos\\sheilla\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4335E80-6A17-4D97-9096-8DEC97E00A33}|SHEILLA.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4335E80-6A17-4D97-9096-8DEC97E00A33}|SHEILLA.csproj|C:\\Users\\Kami\\source\\repos\\SHEILLA\\land.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4335E80-6A17-4D97-9096-8DEC97E00A33}|SHEILLA.csproj|solutionrelative:land.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4335E80-6A17-4D97-9096-8DEC97E00A33}|SHEILLA.csproj|c:\\users\\kami\\source\\repos\\sheilla\\subdivision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4335E80-6A17-4D97-9096-8DEC97E00A33}|SHEILLA.csproj|solutionrelative:subdivision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4335E80-6A17-4D97-9096-8DEC97E00A33}|SHEILLA.csproj|C:\\Users\\Kami\\source\\repos\\SHEILLA\\subdivision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4335E80-6A17-4D97-9096-8DEC97E00A33}|SHEILLA.csproj|solutionrelative:subdivision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4335E80-6A17-4D97-9096-8DEC97E00A33}|SHEILLA.csproj|C:\\Users\\Kami\\source\\repos\\SHEILLA\\land.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4335E80-6A17-4D97-9096-8DEC97E00A33}|SHEILLA.csproj|solutionrelative:land.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4335E80-6A17-4D97-9096-8DEC97E00A33}|SHEILLA.csproj|C:\\Users\\Kami\\source\\repos\\SHEILLA\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4335E80-6A17-4D97-9096-8DEC97E00A33}|SHEILLA.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\SHEILLA\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\SHEILLA\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAqwGMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:59:43.253Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Land.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\SHEILLA\\Land.cs",
+              "RelativeDocumentMoniker": "Land.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\SHEILLA\\Land.cs",
+              "RelativeToolTip": "Land.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:38:24.148Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Signup.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\SHEILLA\\Signup.cs",
+              "RelativeDocumentMoniker": "Signup.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\SHEILLA\\Signup.cs",
+              "RelativeToolTip": "Signup.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAADkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:33:08.687Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\SHEILLA\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "Login.Designer.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\SHEILLA\\Login.Designer.cs",
+              "RelativeToolTip": "Login.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:59:20.784Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Signup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\SHEILLA\\Signup.cs",
+              "RelativeDocumentMoniker": "Signup.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\SHEILLA\\Signup.cs [Design]",
+              "RelativeToolTip": "Signup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:02:04.407Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Subdivision.cs",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\SHEILLA\\Subdivision.cs",
+              "RelativeDocumentMoniker": "Subdivision.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\SHEILLA\\Subdivision.cs",
+              "RelativeToolTip": "Subdivision.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAH4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:41:23.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\SHEILLA\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\SHEILLA\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:59:39.618Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Subdivision.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\SHEILLA\\Subdivision.cs",
+              "RelativeDocumentMoniker": "Subdivision.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\SHEILLA\\Subdivision.cs [Design]",
+              "RelativeToolTip": "Subdivision.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:40:01.133Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Land.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\SHEILLA\\Land.cs",
+              "RelativeDocumentMoniker": "Land.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\SHEILLA\\Land.cs [Design]",
+              "RelativeToolTip": "Land.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T10:17:45.1Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\SHEILLA\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\SHEILLA\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T05:36:03.045Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

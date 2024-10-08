@@ -1,0 +1,13 @@
+C:\Users\Kami\source\repos\SHEILLA\bin\Debug\SHEILLA.exe.config
+C:\Users\Kami\source\repos\SHEILLA\bin\Debug\SHEILLA.exe
+C:\Users\Kami\source\repos\SHEILLA\bin\Debug\SHEILLA.pdb
+C:\Users\Kami\source\repos\SHEILLA\obj\Debug\SHEILLA.csproj.AssemblyReference.cache
+C:\Users\Kami\source\repos\SHEILLA\obj\Debug\SHEILLA.Land.resources
+C:\Users\Kami\source\repos\SHEILLA\obj\Debug\SHEILLA.Login.resources
+C:\Users\Kami\source\repos\SHEILLA\obj\Debug\SHEILLA.Properties.Resources.resources
+C:\Users\Kami\source\repos\SHEILLA\obj\Debug\SHEILLA.csproj.GenerateResource.cache
+C:\Users\Kami\source\repos\SHEILLA\obj\Debug\SHEILLA.csproj.CoreCompileInputs.cache
+C:\Users\Kami\source\repos\SHEILLA\obj\Debug\SHEILLA.exe
+C:\Users\Kami\source\repos\SHEILLA\obj\Debug\SHEILLA.pdb
+C:\Users\Kami\source\repos\SHEILLA\obj\Debug\SHEILLA.Signup.resources
+C:\Users\Kami\source\repos\SHEILLA\obj\Debug\SHEILLA.Subdivision.resources
